@@ -80,14 +80,6 @@ npm start
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Team
-
-- Syed Bilal Alam
-- Ibad Khan
-- Musfirah Kamran
-- Sameer Rashid
-- Haris Ameen
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
